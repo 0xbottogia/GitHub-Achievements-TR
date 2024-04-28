@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?..  ...
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?.. 
   
    [TURKISH GUIDE](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) 
    
@@ -16,7 +16,7 @@
 
 <br>
 
-### Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇.
+### Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
